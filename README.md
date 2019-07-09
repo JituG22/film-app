@@ -26,3 +26,7 @@ yarn
 ```
 yarn start
 ```
+
+## Screen 📺
+
+![Screen-1](./assets/screen-1.png)
